@@ -1,4 +1,4 @@
-# Hey, I'm [Riya] 
+# Hey, I'm Riya
 
 I'm a CS student at IITRAM who builds things at the intersection of **AI/ML and the web** — from deep learning models that run in the field to full-stack apps backed by real databases. I care about writing clean code and shipping projects that actually work.
 
@@ -22,7 +22,7 @@ Currently open to **remote SDE / ML internships** and **freelance frontend or ML
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🌱 Crop Health Detection System
 Built a deep learning model that detects crop diseases from leaf images — designed for farmers who need fast, offline-capable diagnosis.
@@ -50,10 +50,10 @@ A full-stack healthcare platform for scheduling appointments across specialties 
 
 ---
 
-## 📫 Reach me
+## Reach me
 
 - 📧 Email: `riyajethava.102@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [linkedin.com/in/riya-jethava-4a536232a]([https://linkedin.com/in/riya-jethava-4a536232a])
 - 🌐 Portfolio: `coming soon`
 
 I reply fast. If you have a project in mind or a role that fits, just reach out.
